@@ -1,5 +1,3 @@
-Codeshare logo
- ShareSign UpLog In
 
 
 pipeline {
